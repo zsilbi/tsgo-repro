@@ -1,0 +1,11 @@
+{
+  "name": "tsgo-repro",
+  "version": "0.0.1",
+  "packageManager": "pnpm@10.12.3",
+  "scripts": {
+    "prepare": "tsgo --noEmit"
+  },
+  "dependencies": {
+    "@typescript/native-preview": "7.0.0-dev.20250626.1"
+  }
+}
